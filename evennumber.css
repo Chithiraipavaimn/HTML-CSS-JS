@@ -1,0 +1,16 @@
+.divide label
+{
+	font-size: 120%;
+	color: black;
+	width: 200px;
+	display: inline-block;
+}
+body
+{
+	background-color: lightgrey;
+	height: 300px;
+	margin: 100px;
+	display: grid;
+	align-items: center;
+	justify-items:center;
+}

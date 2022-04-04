@@ -1,0 +1,16 @@
+
+.division label
+{
+  color: black;
+  width: 150px;
+  display: inline-block;
+}
+body
+{
+	background-color: pink;
+	height: 100px;
+	margin: 100px;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+}

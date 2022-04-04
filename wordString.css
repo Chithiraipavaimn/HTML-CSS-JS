@@ -1,0 +1,19 @@
+body
+{
+	height: 100px;
+	margin: 100px;
+	display: grid;
+	justify-items: center;
+	align-items: center;
+	background-color: lightgray;
+}
+.wrapper label
+{
+  color: black;
+  width: 180px;
+  display: inline-block;
+}
+h2
+{
+	color: blueviolet;
+}

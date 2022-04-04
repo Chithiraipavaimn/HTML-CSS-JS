@@ -1,0 +1,24 @@
+body
+{
+	background-color: lightgrey;
+	align-items: center;
+	justify-items:center;
+	height:100px;
+	margin-top: 200px;
+	margin-left: 550px;
+}
+h2
+{
+	margin-left: 12%;
+}
+.divide label
+{
+	font-size: 120%;
+	color: black;
+	width: 200px;
+	display: inline-block;
+}
+.divide1
+{
+	margin-left: 15%;
+}

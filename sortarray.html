@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>www.sortinganarray.com</title>
+	<script type="text/javascript">
+		var length=prompt("Enter the length of an array: ");
+		var array=new Array();
+		for(i=0;i<length;i++)
+		{
+			array[i]=prompt("Enter the number");
+		}
+		document.write(array.sort(function(a, b){return a - b}));
+	</script>
+</head>
+<body>
+</body>
+</html>
